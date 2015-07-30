@@ -1,0 +1,22 @@
+div{
+	margin: 100px auto 0px	;
+	width: 500px;
+	height:250px ;
+	border: 3px solid black;
+}
+li{
+	width: 129px;
+	height: 59px;
+	border: 3px solid black;
+	float: left;
+	margin: 8px 0 0 8px;
+	list-style:none;
+}
+.btn{
+	border: 3px solid red;
+	cursor: pointer;
+}
+.cur{
+	border: 3px solid red;
+	
+}
